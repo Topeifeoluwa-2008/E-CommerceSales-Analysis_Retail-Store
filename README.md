@@ -38,4 +38,4 @@ SELECT*FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 
-### DATA VISUAL
+### Data Visualisation
