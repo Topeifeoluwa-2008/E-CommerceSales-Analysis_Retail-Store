@@ -68,5 +68,5 @@ SQL for Businesses by werty.
 |Heading1|Heading2|
 |--------|--------|
 |Content1|Content2|
-|Python|SQL|
+|PowerBi|SQL|
 
